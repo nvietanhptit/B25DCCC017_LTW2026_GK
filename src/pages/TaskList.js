@@ -30,7 +30,7 @@ const TaskList = ({ tasks, loading, error, updateTaskStatus, deleteTask }) => {
     <div>
       <div className="page-heading">
         <div>
-          <div className="eyebrow">QUẢN LÝ DỰ ÁN</div>
+          <div className="eyebrow">CỐ GẮNG LÀM TỐT HƠN 1% MỖI NGÀY</div>
           <h1>Danh sách công việc</h1>
           <p className="subtitle">
             Theo dõi và cập nhật tiến độ của từng nhiệm vụ.
